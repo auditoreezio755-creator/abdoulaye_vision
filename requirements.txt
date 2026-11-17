@@ -1,0 +1,5 @@
+streamlit
+azure-ai-vision-imageanalysis
+python-dotenv
+pillow
+requests
